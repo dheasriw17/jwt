@@ -1,5 +1,5 @@
 {
-	"jwt_secret" : "codenyadeamyasin",
+	"jwt_secret" : "dheasriwahyunisecretcode",
 	"jwt_signing_alg" : [
 		"HS256"
 	],
